@@ -1,2 +1,2 @@
 # pyCunda
-Podran encontrar distintos scripts en python que surgieron siempre de una necesidad. La mayoria de estas muy simples pero como siempre digo ¿Porque hacerlo manual si lo puedes automatizar?.
+Repositorio en el tengo algunos scripts que hice para solucionar algunos inconvenientes que se me han presentado
